@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161807171655",
+    "firebase_url": "https://automed-2abf8.firebaseio.com",
+    "project_id": "automed-2abf8",
+    "storage_bucket": "automed-2abf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161807171655:android:7ded8562138bfcd73a3162",
+        "android_client_info": {
+          "package_name": "com.kz.automed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161807171655-7puejp8l3s7ni6v9najf32ni6fvets8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kz.automed",
+            "certificate_hash": "5caf036926fef375fe4409498b30728d94ff5bae"
+          }
+        },
+        {
+          "client_id": "161807171655-fpsdsvdiuftfvv141m8odf8vr65d3qqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7Ilc7WpsHXO_4Tpd4fAOH0CKq66z0ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161807171655-fpsdsvdiuftfvv141m8odf8vr65d3qqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
